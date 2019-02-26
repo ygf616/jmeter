@@ -1,5 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
-1533092165177,644,登录,200,OK,实时地图-获取官方站数据 1-1,text,true,,311,162,1,1,644,0,512
-1533092166126,35,实时地图-获取官方站数据,200,OK,实时地图-获取官方站数据 1-1,text,true,,1098,163,1,1,35,0,0
-1533092166310,45,登录,200,OK,实时地图-获取车辆实时数据 2-1,text,true,,311,162,1,1,44,0,21
-1533092166358,29,实时地图-获取车辆实时数据,200,OK,实时地图-获取车辆实时数据 2-1,text,true,,10206,156,1,1,27,0,0
